@@ -23,3 +23,12 @@ Random Forest Classifier
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+🎯 Output
+Normal Transaction
+Suspicious Transaction
+Fraud Transaction
+👩‍💻 Author
+
+Kalai Ajitha M
